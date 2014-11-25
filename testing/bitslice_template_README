@@ -1,0 +1,5 @@
+In order to use bitslice template, please follow these steps - 
+
+1. Copy bitslice_template.tar to your library e.g. ~/ece555/cadence/ECE555/
+2. Once you copy it there, execute command =  'tar -xf bitslice_template.tar'
+3. Now, once you invoke the tool, your bitslice template should be available in your library (ECE555 in this case)
